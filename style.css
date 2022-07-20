@@ -10,14 +10,11 @@ html {
   body {
     background:linear-gradient(rgba(75, 0, 130, 0.85),
         rgba(0, 0, 0, 0.85));
-    background-repeat:no-repeat;
     color: white;
     font-family: Consolas;
     opacity: 0.8;
     padding:200px;
-    
     font-size:25px;
-    
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
