@@ -18,6 +18,8 @@ html {
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
+    backdrop-filter: contrast(80%);
+    backdrop-filter: blur(20px);
     
    
   }
